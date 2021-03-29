@@ -4,11 +4,11 @@ import './App.css';
 
 function App() {
     return ( <
-        div className = "Plant" >
+        h2 className = "Plant" >
         <
         Plant / >
         <
-        /div>
+        /h2>
     );
 }
 
